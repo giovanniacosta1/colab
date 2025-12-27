@@ -1,4 +1,4 @@
-# Curso de Google Colab para Docentes
+# Uso de Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giovanniacosta1/colab/blob/main/Cuaderno1.ipynb)
 
